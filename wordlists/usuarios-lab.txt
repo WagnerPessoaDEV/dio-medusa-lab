@@ -1,0 +1,2 @@
+# Substitua pelo usuário descartável criado apenas na VM do laboratório.
+usuario-teste-lab

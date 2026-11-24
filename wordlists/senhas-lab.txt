@@ -1,0 +1,2 @@
+# Substitua pela senha descartável configurada apenas na VM do laboratório.
+Trocar-por-valor-descartavel-001!
